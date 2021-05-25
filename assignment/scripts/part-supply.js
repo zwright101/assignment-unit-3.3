@@ -22,8 +22,8 @@ console.log('5. Adding 25 to supplyChanges.');
 // 6. Write a `for` loop that shows each value in the 'supplyChanges' array
 //    Use a console.log formatted as follows, where x is the value from the array
 //    - if it is a positive number (greater than 0), log 'Added x parts.' 
-//    - if the value is 0, skip it. Do not log it to the console.
-//    - if the value is negative, format the log as 'Part count -x.' 
+//    - if the value is 0, log 'No Change.'
+//    - if the value is negative, format the log as 'Removed x parts.' 
 console.log('6. Showing supplyChanges...');
 
 
