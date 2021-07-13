@@ -9,8 +9,8 @@ console.log('1. Number of partsNeeded:');
 //    the following numbers: 3, 5, -6, 0, 7, 11
 console.log('2. Array of supplyChanges:');
 
-// 3. Console log the value of 'supplyChanges' at index 2
-console.log('3. Item at index 2 is:');
+// 3. Console log the value of the second item in the 'supplyChanges' array
+console.log('3. Second supplyChange is:');
 
 // 4. The last item was added by mistake. Remove it from the 'supplyChanges' 
 //    array & console.log the value removed.
